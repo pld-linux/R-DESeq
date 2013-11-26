@@ -2,13 +2,13 @@
 
 Summary:	Differential gene expression analysis based on the negative binomial distribution
 Name:		R-%{packname}
-Version:	1.12.0
+Version:	1.14.0
 Release:	1
 License:	GPL v3
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	8743c9b97e61e6a65b8815f6c1c6c20a
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	6df447df70a5c2e1fac6c98540f6b249
+URL:		http://bioconductor.org/packages/release/bioc/html/DESeq.html
 BuildRequires:	R
 BuildRequires:	R-Biobase
 BuildRequires:	R-cran-locfit
