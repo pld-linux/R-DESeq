@@ -3,7 +3,7 @@
 Summary:	Differential gene expression analysis based on the negative binomial distribution
 Name:		R-%{packname}
 Version:	1.14.0
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
